@@ -1,8 +1,10 @@
 # Sprint 2 – Build a Product Listing with React
 
-In today's assignment we are going to build a product listing in React. You specific e-commerce store is a pharmacy so we are going to list pharmacuticals. To do so you have a JSON file with all the product information and you are going to use React components to list all the items on the page. 
+In today's assignment we are going to build a product listing in React. Your specific e-commerce store is a pharmacy so we are going to list pharmacuticals. To do so you have a JSON file with all the product information and you are going to use React components to build a dynamic page that lists all the items. 
 
 In the end it will look something like this: 
+
+ADD IMAGE
 
 ## How to complete this assignment
 
@@ -17,7 +19,7 @@ Code your product component to make it look like you want it to look (meaning on
 
 ## Iterate over the data
 
-In the `product.json`file there's an array of prodcuts in a json format –– Javascript objects. This is the data you will be using to fill you product listing. 
+In the `product.json`file there's an `array` of prodcuts in a json format –– Javascript objects. This is the data you will be using to fill your product listing. 
 
 You're task is to iterate over the array and create and render one component for each product. Every product listing should have the following data rendered: 
 
