@@ -4,7 +4,7 @@ In today's assignment we are going to build a product listing in React. Your e-c
 
 In the end it will look something like this: 
 
-![Wireframe](https://github.com/Technigo/assignment-product-page/blob/master/wireframe-products.png)
+![Wireframe](https://github.com/Technigo/assignment-product-page/blob/master/wireframe_products.png)
 
 ## How to complete this assignment
 
