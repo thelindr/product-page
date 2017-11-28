@@ -15,6 +15,11 @@ h2 {
   margin-top: -5px;
 }
 
+li {
+  list-style-type: circle;
+  font-size: 15px;
+}
+
 .container {
   display: flex;
   flex-direction: row;
@@ -46,7 +51,7 @@ h2 {
 }
 
 img {
-  height: 120px;
+  height: 150px;
   width: 80%;
   object-fit: contain;
   background-color: white;
