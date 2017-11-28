@@ -1,5 +1,6 @@
 {
 	"products": [{
+			"id": 1,
 			"name": "Alvedon",
 			"type": "Filmdragerad tablett",
 			"size": "500 mg",
@@ -11,6 +12,7 @@
 			"description": "Skonsamt mot magen om man behöver ta värkmedicin ofta. Lindrar smärta och sänker feber. Effekten på värk kommer inom 30 minuter och på feber efter ½ - 1 timme. Från 3 år."
 		},
 		{
+			"id": 2,
 			"name": "Ipren",
 			"type": "Filmdragerad tablett",
 			"size": "400 mg",
@@ -22,6 +24,7 @@
 			"description": "Lindrar smärta, dämpar inflammation och sänker feber. Effekten kommer inom 30 min, varar i ca 6 tim. Från 12 år."
 		},
 		{
+			"id": 3,
 			"name": "Paracetamol Apofri",
 			"type": "Filmdragerad tablett",
 			"size": "500 mg",
@@ -33,6 +36,7 @@
 			"description": "Skonsam mot magen. Samma substans som t ex Alvedon.Mot smärta & feber. Effekt på värk inom 30 min & feber efter 30-60 min. Effekten varar i 4-5 tim. Från 3 år."
 		},
 		{
+			"id": 4,
 			"name": "Minoxidil Orifarm Forte",
 			"type": "Kutan lösning",
 			"size": "50 mg/ml",
@@ -43,8 +47,8 @@
 			"image": "https://www.apoteket.se/produktbilder/Validoo/179719s.jpg",
 			"description": "Endast för män. Stimulerar hårväxt vid tidiga former av håravfall. Används under minst 2 mån. för märkbar effekt. 60 ml räcker ca 1 mån."
 		},
-
 		{
+			"id": 5,
 			"name": "Treo",
 			"type": "Brustablett",
 			"size": "500 mg/50 mg",
@@ -55,8 +59,8 @@
 			"image": "https://www.apoteket.se/produktbilder/Validoo/146194s.jpg",
 			"description": "Vid huvudvärk av migräntyp är brustablett ett bra val liksom tillägg av koffein. Lindrar smärta, dämpar inflammation, sänker feber. Effekt inom 30 min, varar i 4-6 tim. Värk från 14 år. Feber från 18 år."
 		},
-
 		{
+			"id": 6,
 			"name": "Apoliva Deodorant",
 			"type": "Deodorant",
 			"size": "60 ml",
@@ -68,6 +72,7 @@
 			"description": "Denna deodorant är en effektiv antiperspirant.Lätt att applicera, och ger huden en ljuvlig doft av sommaräng och vit mysk."
 		},
 		{
+			"id": 7,
 			"name": "Intim Tvål",
 			"type": "Flytande tvål",
 			"size": "200 ml",
@@ -79,6 +84,7 @@
 			"description": "En mild tvål med pH-värdet anpassat för underlivets yttre delar. Speciellt framtagen för skonsam intimtvätt. Torkar inte ut huden."
 		},
 		{
+			"id": 8,
 			"name": "Otrivin",
 			"type": "Nässpray",
 			"size": "100 ml",
@@ -91,6 +97,7 @@
 		},
 
 		{
+			"id": 9,
 			"name": "Apoteket Saffran",
 			"type": "Krydda",
 			"size": "0,5 g",
@@ -102,6 +109,7 @@
 			"description": "Saffran för matlagning och bakning."
 		},
 		{
+			"id": 10,
 			"name": "Voltaren",
 			"type": "Dragerad tablett",
 			"size": "25 mg",
@@ -113,6 +121,7 @@
 			"description": "Lindrar smärta, dämpar inflammation och sänker feber. Effekten kommer inom 30 minuter och varar i 4-6 timmar.Från 18 år."
 		},
 		{
+			"id": 11,
 			"name": "Intim Creme",
 			"type": "Mjukgörande kräm",
 			"size": "50 ml",
@@ -124,6 +133,7 @@
 			"description": "Mild och återfuktande kräm. Innehåller naturlig oliv- och rapsolja, samt återfuktande glycerin och mjölksyra."
 		},
 		{
+			"id": 12,
 			"name": "Nezeril",
 			"type": "Nässpray",
 			"size": "0,5 mg/ml",
